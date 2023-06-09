@@ -1,4 +1,4 @@
-const logo = 'https://res.cloudinary.com/sweta-agarwalla/image/upload/v1683874845/logo.png';
+const logo = 'https://res.cloudinary.com/dd7fnc53u/image/upload/v1686320253/or_jadndp.jpg';
 const header = 'https://res.cloudinary.com/sweta-agarwalla/image/upload/v1683881822/hero-img.jpg';
 const hm = 'https://res.cloudinary.com/sweta-agarwalla/image/upload/v1683887347/h_m_q8hrlz.png';
 const sassafras = 'https://res.cloudinary.com/sweta-agarwalla/image/upload/v1684138583/lx4hccsrkezpp9i87cpu.png';
