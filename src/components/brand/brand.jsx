@@ -71,7 +71,7 @@ export const Brand = () => {
             filterDispatch({ type: "clear_filters" });
             filterDispatch({
               type: "filter_by_brands",
-              payload: "Dolce & Gabbana",
+              payload: "Ts oversize washingg ",
             });
             navigate("/products");
           }}

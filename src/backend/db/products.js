@@ -95,11 +95,11 @@ export const products = [
   },
   {
     _id: '3aa45270-9557-493e-9e58-8b59c11b74be',
-    title: "Women Black Solid Shirt Dress",
+    title: "Band luar",
     image: dress4,
-    brand: "H&M",
-    price: "3549",
-    originalPrice: "3999",
+    brand: "Ts oversize washingg",
+    price: "RP.99000",
+    originalPrice: "RP.15000",
     ratings: {
       value: "4.9",
       count: "691",
@@ -109,11 +109,11 @@ export const products = [
   },
   {
     _id: '50171bb9-246c-4b39-bf9b-3c4716b41bf3',
-    title: "Puff Sleeves Party Top",
+    title: "Brand luar",
     image: top3,
-    brand: "Roadster",
-    price: "689",
-    originalPrice: "1459",
+    brand: "Ts oversize washingg",
+    price: "RP.99000",
+    originalPrice: "RP.150.000",
     ratings: {
       value: "2.8",
       count: "921",
@@ -139,9 +139,9 @@ export const products = [
     _id: '24679472-6bc6-4612-a81a-66ffd7e6c241',
     title: "Burgundy Hooded Solid Blouson Crop Top",
     image: top4,
-    brand: "H&M",
-    price: "499",
-    originalPrice: "699",
+    brand: "Ts oversize washingg",
+    price: "RP.99000",
+    originalPrice: "RP.150000",
     ratings: {
       value: "4",
       count: "640",
@@ -293,11 +293,11 @@ export const products = [
   },
   {
     _id: 'e9f034d5-4e8f-4b9f-a754-70f341e6bca1',
-    title: "Patchwork Pullover T-shirt",
+    title: "Brand luar",
     image: top8,
-    brand: "H&M",
-    price: "690",
-    originalPrice: "1189",
+    brand: "Ts oversize washingg",
+    price: "RP.99000",
+    originalPrice: "RP.150000",
     ratings: {
       value: "4.6",
       count: "937",
@@ -307,11 +307,11 @@ export const products = [
   },
   {
     _id: '03583068-a50d-4938-94fa-d9964b687007',
-    title: "Women Wide Twill Trousers",
+    title: "Band luar",
     image: bottom3,
-    brand: "H&M",
-    price: "999",
-    originalPrice: "1799",
+    brand: "Ts oversize washingg",
+    price: "RP.99000",
+    originalPrice: "RP.150000",
     ratings: {
       value: "4.4",
       count: "1.7k",
@@ -322,11 +322,11 @@ export const products = [
   {
     _id: '2cee2d31-fb44-49a2-bd4e-f1e055679868',
     title:
-      "Women Black Ethnic Motifs Printed Pure Cotton Kurta with Palazzos & With Dupatta",
+      "Ts oversize washingg",
     image: ethnic4,
-    brand: "Libas",
-    price: "1649",
-    originalPrice: "2499",
+    brand: "Ts oversize washingg",
+    price: "RP.99000",
+    originalPrice: "RP.150000",
     ratings: {
       value: "3.2",
       count: "1.4k",
@@ -351,11 +351,11 @@ export const products = [
   },
   {
     _id: '7a4e5ba9-01ec-44f4-ad52-17fd34dc812e',
-    title: "Pocket Straight Leg Pants",
+    title: "Band Luar",
     image: bottom5,
-    brand: "Dolce & Gabbana",
-    price: "2390",
-    originalPrice: "2999",
+    brand: "Ts oversize washingg",
+    price: "RP.99000",
+    originalPrice: "RP.150000",
     ratings: {
       value: "4.7",
       count: "2.5k",
@@ -451,11 +451,11 @@ export const products = [
   {
     _id: 'tfqhje2-26e2-ed66-6122-hdyuge71321',
     title:
-      "Women Charcoal Grey & Gold Ethnic Motifs Print Cotton Straight Kurta Palazzos Dupatta",
+      "Band luar",
     image: ethnic1,
-    brand: "Libas",
-    price: "1379",
-    originalPrice: "1899",
+    brand: "Ts oversize washingg",
+    price: "RP.99000",
+    originalPrice: "RP.150000",
     ratings: {
       value: "4.5",
       count: "1k",

@@ -1,6 +1,5 @@
 import { Response } from "miragejs";
 import { formatDate, requiresAuth } from "../utils/authUtils";
-
 /**
  * All the routes related to Cart are present here.
  * These are private routes.
@@ -25,13 +24,11 @@ export const getCartItemsHandler = function (schema, request) {
   const userCart = schema.users.findBy({ _id: userId }).cart;
   return new Response(200, {}, { cart: userCart });
 };
-
 /**
  * This handler handles adding items to user's cart.
  * send POST Request at /api/user/cart
  * body contains {product}
  * */
-
 export const addItemToCartHandler = function (schema, request) {
   const userId = requiresAuth.call(this, request);
   try {

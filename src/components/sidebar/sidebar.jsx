@@ -114,15 +114,15 @@ export const SideBar = ({ isFilterVisible }) => {
           <label>
             <input
               type="checkbox"
-              checked={filterState?.brands.includes("Dolce & Gabbana")}
+              checked={filterState?.brands.includes("Ts oversize washingg")}
               onChange={() =>
                 filterDispatch({
                   type: "filter_by_brands",
-                  payload: "Dolce & Gabbana",
+                  payload: "Ts oversize washingg",
                 })
               }
             />{" "}
-            Dolce & Gabbana
+            Ts oversize washingg
           </label>
           <label>
             <input

@@ -65,8 +65,8 @@ export const ProductCard = ({ data }) => {
           </p>
           <div className="price-rating">
             <div className="price">
-              <h3>₹{price}</h3>
-              <p>₹{originalPrice}</p>
+              <h3>{price}</h3>
+              <p>{originalPrice}</p>
             </div>
             <p>{ratings?.value} ⭐</p>
           </div>
