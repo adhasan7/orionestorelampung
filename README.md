@@ -44,3 +44,31 @@ cd ecommerce-attire
 npm install
 npm start
 ```
+<!-- 
+Model
+1. membuat gambar
+folder assets
+index.js
+
+View
+folder
+productcar
+product.js...
+
+folder featured
+featured.jsx
+
+Controller
+folder db
+product.js
+
+View
+
+jika versinya tidak sama => misal react-json-view-lite
+kunjungi => https://www.npmjs.com/package/react-json-view-lite
+=>(atau perintah installnya seperti ini)
+
+npm install --legacy-peer-deps
+
+
+ -->
